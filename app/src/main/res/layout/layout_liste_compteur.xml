@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#1e3f5c"
+    >
+    <Spinner
+        android:id="@+id/compteur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_below="@id/lvCompteur"
+        android:layout_centerHorizontal="true"
+        />
+    <GridView
+        android:id="@+id/myGridView"
+        android:numColumns="auto_fit"
+        android:layout_below="@id/lvCompteur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView android:id="@+id/lvCompteur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</RelativeLayout>

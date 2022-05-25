@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1e3f5c">
+
+    <TextView
+        android:id="@+id/nom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nom"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"/>
+
+    <TextView
+        android:id="@+id/rue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rue"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"/>
+
+    <TextView
+        android:id="@+id/ville"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ville"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"/>
+
+    <TextView
+        android:id="@+id/cp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CP"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"
+        />
+
+    <TextView
+        android:id="@+id/indexAncien"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="indexAncien"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"
+        />
+
+    <TextView
+        android:id="@+id/indexNouveau"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="indexNouveau"
+        android:textSize="35sp"
+        android:gravity="center"
+        android:textColor="#ffff"
+        android:fontFamily="@font/storytime"/>
+
+    <EditText
+        android:id="@+id/indexNouveau2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/indexNouveau2"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/border"
+        android:fontFamily="@font/hug_me_tight"
+        android:gravity="center"
+        android:hint="Index Nouveau"
+        android:padding="15dp"
+        android:textColor="#1e3f5c"
+        android:textColorHint="#1e3f5c"
+        android:textSize="25sp"
+        android:inputType="number"/>
+
+    <Button
+        android:textSize="25sp"
+        android:backgroundTint="@color/primaryTextColor"
+        android:id="@+id/valider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Valider"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/evolve"
+        android:textStyle="bold"/>
+
+    <Button
+        android:textSize="25sp"
+        android:backgroundTint="@color/primaryTextColor"
+        android:id="@+id/annuler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Annuler"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="80dp"
+        android:fontFamily="@font/evolve"
+        android:textStyle="bold"/>
+
+</LinearLayout>

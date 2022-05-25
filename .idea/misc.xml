@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/layout/layout_fiche_compteur.xml" value="0.1" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/layout/layout_liste_compteur.xml" value="0.1" />
+        <entry key="..\:/Users/elyni/AndroidStudioProjects/JreleveCompteursDuLimousin/app/src/main/res/layout/list_item_compteur.xml" value="0.1" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/drawable/border.xml" value="0.2833333333333333" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2833333333333333" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2833333333333333" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2833333333333333" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/drawable/login_button_bk.xml" value="0.20277777777777778" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/font/font.xml" value="0.29739583333333336" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/layout/activity_main.xml" value="0.2671875" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/layout/layout_fiche_compteur.xml" value="0.22" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/layout/layout_liste_compteur.xml" value="0.1" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/layout/list_item_compteur.xml" value="0.25" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/layout/signup.xml" value="0.1" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2833333333333333" />
+        <entry key="..\:/bts sio/Bloc 2 Mr Bogusz/JreleveCompteursDuLimousin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2833333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
